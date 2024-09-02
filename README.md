@@ -78,11 +78,6 @@ Total: 495 calories
 
 Contributions are welcome! Please fork this repository, make your changes, and submit a pull request.
 
-## Acknowledgments
-
-- Thanks to [Google Cloud](https://cloud.google.com) for providing the Gemini Pro Vision API.
-- Special thanks to the developers of Streamlit for their easy-to-use framework.
-
 ## Contact
 
 For any inquiries or issues, please contact ayushkumawat2112@gmail.com.
