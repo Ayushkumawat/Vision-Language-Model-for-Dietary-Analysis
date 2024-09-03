@@ -66,13 +66,11 @@
 ## Example Output
 
 When you upload an image and submit it, the app will return:
- ```bash
- 1. Apple - 95 calories
- 2. Sandwich - 250 calories
- 3. Salad - 150 calories
-----------------------------
-Total: 495 calories
-```
+
+![db18ee5b-1ecb-41a3-a0a1-f2f0f331a13c](https://github.com/user-attachments/assets/6cccbfd5-5a4a-4b97-807d-7b1ee340bb10)
+
+![ef71e629-bfda-4271-85dd-ad8a790aaa31](https://github.com/user-attachments/assets/3b8d954d-5210-40be-bca7-a99defc490ba)
+
 
 ## Contributing
 
